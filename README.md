@@ -1,8 +1,8 @@
 # Claude Desktop Flatpak (io.github.dewzor.ClaudeDesktop)
 
-Flatpak manifest for Claude Desktop on Linux, built from Anthropic's official .deb via extra-data. Nothing proprietary is redistributed; Flatpak downloads the package on your machine at install time.
+**Archived on October 22, 2026.** This Flatpak is no longer maintained. The Flathub submission was closed, and the manifest still pins Claude Desktop 1.40609.0 from August 2026. On Fedora, use the native RPM instead: https://github.com/dewzor/claude-desktop-fedora
 
-Status: submitted to Flathub, https://github.com/flathub/flathub/pull/9971. While the review runs, this repo is where the manifest is edited. After the merge, the manifest lives in Flathub's own repo for this app and this repo stays as the app-id home and screenshot host.
+Flatpak manifest for Claude Desktop on Linux, built from Anthropic's official .deb via extra-data. Nothing proprietary is redistributed; Flatpak downloads the package on your machine at install time.
 
 Build and install locally:
 
